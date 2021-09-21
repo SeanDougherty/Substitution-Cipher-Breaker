@@ -1,8 +1,8 @@
 
 
-# Caesar Cipher Breaker
+# Substitution Cipher Breaker
 
-This is a C++ program that is designed to aid in the breaking of Caesar Ciphers.
+This is a C++ program that is designed to aid in the breaking of Substitution Ciphers.
 
 ---
 ## COMPILING
